@@ -38,7 +38,7 @@
 
 基于layui开发  
   
-后台地址一般为：https://pingxonline.com/app/saylove/admin  
+后台地址一般为：HTTP：520.jxau.club  
 
 ## 支持
 基于jQuery Mobile开发。
